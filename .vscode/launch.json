@@ -1,0 +1,25 @@
+
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": ".NET Core Attach", // attach .net
+        "type": "coreclr",
+        "request": "attach"
+      },
+      {
+        "name": "C++ Debug", //debug name
+        "type": "cppdbg",
+        "request": "launch",
+        "program": "${workspaceFolder}/build/cmaketest", // the path of program
+        "args": [],
+        "stopAtEntry": false,
+        "cwd": "${workspaceFolder}",
+        "environment": [],
+        "externalConsole": false,
+        "MIMode": "gdb", //gdb
+        "preLaunchTask": "build"
+      }
+    ]
+  }
+

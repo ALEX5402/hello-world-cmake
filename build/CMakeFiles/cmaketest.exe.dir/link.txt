@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g -rdynamic CMakeFiles/cmaketest.exe.dir/main.cpp.o -o cmaketest.exe 

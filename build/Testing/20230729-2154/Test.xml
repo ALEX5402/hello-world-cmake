@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-clang++"
+	BuildStamp="20230729-2154-Experimental"
+	Name="alex"
+	Generator="ctest-3.27.1"
+	CompilerName="/usr/bin/clang++"
+	CompilerVersion="15.0.7"
+	OSName="Linux"
+	Hostname="alex"
+	OSRelease="6.4.7-zen1-1-zen"
+	OSVersion="#1 ZEN SMP PREEMPT_DYNAMIC Thu, 27 Jul 2023 22:02:02 +0000"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="AuthenticAMD"
+	VendorID="Advanced Micro Devices"
+	FamilyID="23"
+	ModelID="17"
+	ProcessorCacheSize="512"
+	NumberOfLogicalCPU="4"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="13914"
+	TotalPhysicalMemory="13915"
+	LogicalProcessorsPerPhysical="1"
+	ProcessorClockFrequency="3459.43"
+	>
+	<Testing>
+		<StartDateTime>Jul 30 03:25 IST</StartDateTime>
+		<StartTestTime>1690667748</StartTestTime>
+		<TestList/>
+		<EndDateTime>Jul 30 03:25 IST</EndDateTime>
+		<EndTestTime>1690667748</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

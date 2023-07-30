@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/alex/cmake-demo/build",
+  "command": "/usr/bin/clang++   -g -o CMakeFiles/cmaketest.exe.dir/main.cpp.o -c /home/alex/cmake-demo/main.cpp",
+  "file": "/home/alex/cmake-demo/main.cpp",
+  "output": "CMakeFiles/cmaketest.exe.dir/main.cpp.o"
+}
+]
